@@ -1,1 +1,6 @@
-Pembagian Kelompok 5
+# SanbercodeQA - Kelompok5
+Belajar Git
+
+Nama Anggota
+
+Pembagian Tugas
