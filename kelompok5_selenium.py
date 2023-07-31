@@ -5,7 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 class ScrapWeb:
-    driver = webdriver.Chrome("chromedriver.exe")
+    driver = webdriver.Chrome()
         
     def get(self,website):
         self.driver.get(f'{website}')
@@ -111,11 +111,11 @@ test action -- COMMENT(#) JIKA TIDAK DIGUNAKAN ,UNCOMMENT JIKA INGIN DIGUNAKAN
 '''
 
 #test.createAccount()
-test.signIn()
+#test.signIn()
 #test.signOut()
 #test.signInFailed()
 #test.addToCart()
 #test.deleteFromCart()
-#test.checkout()
+test.checkout()
 
 test.driver.quit()
