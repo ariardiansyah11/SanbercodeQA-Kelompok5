@@ -10,5 +10,6 @@ Nama Anggota
 
 Link Test cases : https://drive.google.com/file/d/1KlRhOIc08MZqAfruubp7IpE1spcUpPtS/view?usp=sharing  
                   https://app.qase.io/public/report/018a2367ac548c22945d7bde3555d66438684d40
+                  https://docs.google.com/spreadsheets/d/1Tvo9fb8PKsCtabDizTMwsfLH2r4xOvIIXh5jic86ebo/edit?usp=sharing
 
 Link Record Test Run : https://drive.google.com/drive/folders/1iL5swyT8Be0_yBlAqE_ovUz5PLpjrZmo?usp=sharing
