@@ -3,7 +3,7 @@
 Nama Anggota
 1. Ari Ardiansyah : Melakukan manual testing menggunakan Qase.io (Create Account, Sign in, Sign out, select product, add to cart, delete product/item, and checkout product.
 2. Raden Bambang Syumanjaya : Melakukan automation testing menggunakan selenium python test run ( openWeb, crate account, sign in, sign out, sign in failed, add to cart, delete drom cart, check out), Test Run
-3. Ezra Yuniar Sibarani:  Melakukan Test Case Document yang di kreasikan dengan positif dan negatif scenario pada Google spreadsheets (Create account, Update my account, Log In, Log Out, Select product and add cart, Process to CheckOut, and Shoping Cart Page)
+3. Ezra Yuniar Sibarani:  Melakukan Test Case Document yang di kreasikan dengan positif dan negatif scenario pada Google spreadsheets (Create account, Update my account, Log In, Log Out, Select product and add cart, Process to CheckOut, and Shoping Cart Page) sesuai dengan website yang diminta
 4. Muhammad Alief Farhan
 5. Hafizh Shafwan Rafa
 
